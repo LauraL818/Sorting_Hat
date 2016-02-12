@@ -1,0 +1,2 @@
+module PuffHelper
+end
